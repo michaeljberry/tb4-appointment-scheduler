@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "nextId": 1,
+  "appointments": [
+    {
+      "id": "apt-seed-1",
+      "patientName": "Riley Chen",
+      "providerId": "amin",
+      "serviceId": "exam",
+      "start": "2026-01-15T15:00:00.000Z",
+      "end": "2026-01-15T15:30:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "apt-seed-2",
+      "patientName": "Jordan Blake",
+      "providerId": "brooks",
+      "serviceId": "consult",
+      "start": "2026-01-15T16:00:00.000Z",
+      "end": "2026-01-15T17:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "apt-seed-3",
+      "patientName": "Sam Patel",
+      "providerId": "amin",
+      "serviceId": "exam",
+      "start": "2026-01-16T14:00:00.000Z",
+      "end": "2026-01-16T14:30:00.000Z",
+      "status": "cancelled"
+    }
+  ]
+}
